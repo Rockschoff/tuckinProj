@@ -1,0 +1,31 @@
+.flexcard-heading {
+  width: 245px;
+  height: 39px;
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 39px;
+  /* identical to box height */
+
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+
+  color: #4f3343;
+}
+
+.flexcard-content {
+  width: 293px;
+  height: 180px;
+  padding-top: 50px;
+  margin: auto;
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #4f3343;
+}

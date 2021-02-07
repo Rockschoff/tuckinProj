@@ -1,0 +1,99 @@
+.card {
+  margin-top: 50px;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+div {
+  background: #f5f3eb;
+  justify-content: center;
+}
+
+.card-img {
+  width: 295px;
+  height: 302px;
+}
+
+.card-name {
+  width: 295px;
+  /* border: 2px solid black; */
+  align-text: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: -50px;
+}
+
+.card-prize {
+  width: 295px;
+  /* border: 2px solid black; */
+  align-item: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-circles {
+  /* border: 2px solid black; */
+  width: 295px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.circle {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  /* background-color: pink; */
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+.card-line {
+  height: 0px;
+  border: 1px solid grey;
+  width: 295px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.card-buy {
+  color: black;
+
+  width: 100px;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-decoration: underline;
+  padding-bottom: 5px;
+  border: 1px solid black;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.card-buy:hover {
+  border: 1px solid grey;
+  border-radius: 15px;
+  background-color: #edebe1;
+}
+
+.white-circle {
+  background-color: white;
+}
+
+.sage-circle {
+  background-color: lightgreen;
+}
+
+.pink-circle {
+  background-color: pink;
+}
+
+.strip-circle {
+  background-color: lightblue;
+}
+
+.grey-circle {
+  background-color: gray;
+}

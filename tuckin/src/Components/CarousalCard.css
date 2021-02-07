@@ -1,0 +1,126 @@
+/* .carousal-all {
+  border-bottom: 2px solid pink;
+} */
+
+.top-text {
+  position: relative;
+  left: 10%;
+  margin-right: 40%;
+}
+
+.bottom-text {
+  position: relative;
+  left: 60%;
+}
+
+/* .bottom {
+  position: relative;
+  bottom: 100px;
+
+
+} */
+
+.top-pic {
+  background-color: pink;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  position: relative;
+  bottom: 125px;
+  left: 100px;
+  width: 164px;
+  height: 166px;
+  border-radius: 0 0 0 100px;
+}
+.top-text-heading {
+  position: relative;
+  /* left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 68.03%; */
+
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 39px;
+  height: 39px;
+  width: 143px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.top-text-content {
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+
+  color: #000000;
+  height: 78px;
+  width: 128px;
+  left: 0px;
+  top: 44px;
+  border-radius: nullpx;
+}
+
+.bottom-text-heading {
+  position: relative;
+  /* left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 68.03%; */
+
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 39px;
+  height: 39px;
+  width: 143px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.bottom-text-content {
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+
+  color: #000000;
+  height: 78px;
+  width: 128px;
+  left: 0px;
+  top: 44px;
+  border-radius: nullpx;
+}
+
+.bottom-pic {
+  background-color: pink;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  position: relative;
+  bottom: 125px;
+  right: 100px;
+  width: 164px;
+  height: 166px;
+  border-radius: 0 100px 0 0;
+}
+
+video {
+  width: 100px;
+}

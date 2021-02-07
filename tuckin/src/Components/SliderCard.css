@@ -1,0 +1,32 @@
+.slide-content {
+  width: 299px;
+  height: 289px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-family: Eras Medium ITC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+}
+
+.slide-heading {
+  font-family: Eras Medium ITC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 21px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  margin-left: 40px;
+  text-decoration: underline;
+  margin-bottom: 25px;
+}
+
+.slider-wrapper {
+  border-top: 1px solid pink;
+}

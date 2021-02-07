@@ -1,0 +1,32 @@
+.about-heading {
+  width: 94px;
+  height: 39px;
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 39px;
+  /* identical to box height */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  text-decoration: underline;
+
+  color: #4f3343;
+}
+
+.about-content {
+  width: 70%;
+  height: auto;
+  font-family: Cambay;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 23px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+
+  color: #000000;
+}
